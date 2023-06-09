@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BlieNuckel
-- 👀 I’m interested in AI, Fullstack Development, most other things coding related.
-- 🌱 I’m currently learning working on my Bachelor.
+- 👀 I’m interested in AI, Fullstack Development, and most other things coding related.
+- 🌱 I’m currently working on my Bachelor.
 - 📫 How to reach me: lasse.k.r.poulsen@gmail.com
 
 <!---
